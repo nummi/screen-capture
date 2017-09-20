@@ -1,0 +1,17 @@
+{
+  "devices": [
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      }
+    },
+    {
+      "viewport": {
+        "width": 750,
+        "height": 1334
+      },
+      "userAgent": "Mozilla/5.0 (BlackBerry; U; BlackBerry 9360; en) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.319 Mobile Safari/534.11"
+    }
+  ]
+}
